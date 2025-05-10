@@ -19,7 +19,7 @@ I'm a passionate full-stack developer and problem-solver focused on building rea
 
 
 ## 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/sairupini-chitikesi-4812762b7](https://linkedin.com/in/sairupini-chitikesi-4812762b7)
+- LinkedIn: [linkedin.com/in/sairupini-chitikesi-4812762b7](https://linkedin.com/in/sairupini-chitikesi)
 - Email: chsairupini2609@gmail.com
 
 ---
