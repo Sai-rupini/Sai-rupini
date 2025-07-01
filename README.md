@@ -5,7 +5,6 @@ I'm a passionate full-stack developer and problem-solver focused on building rea
 ---
 
 ## 🚀 About Me
-- 🔭 Currently working on: ExamTrack – an online exam registration and management system using Django
 - 🌱 Still in the learning stage — exploring new technologies and improving every day
 - 💡 Interests: Web Development, AI integration and UI/UX Design
 - 💼 Open to: Internships, collaborations, and innovative product development
